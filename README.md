@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @SavageTech96
+- 👀 I’m interested in computers,watching football,music and shopping ..
+- 🌱 I’m currently learning on Coursera and also on GitHub ...
+- 💞️ I’m looking to collaborate on web designs community ...
+- 📫 How to reach me @Latmus_savage_tech or email latmussavage@icloud.com...  
+<!---
+SavageTech96/SavageTech96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
